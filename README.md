@@ -2,7 +2,7 @@
 Kaggle's Identify and classify toxic online comments competition
 
 
-### Had to classify the comments in one or more of the mentioned labels:
+_Had to classify the comments in one or more of the mentioned labels:_
    
    'toxic', 'severe_toxic', 'obscene', 'threat', 'insult', 'identity_hate'
 
